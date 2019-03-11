@@ -93,8 +93,8 @@ We use the original precomputed image features as from [Matterport3DSimulator](h
 They provided image features with models pretrained from ImageNet and Places365.
 
 Download and extract the tsv files into the `img_features` directory. You will only need the ImageNet features to replicate our results. We will uppack the zip file later.
-- [ResNet-152-imagenet features [380K/2.9GB]](https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-imagenet.zip)
-- [ResNet-152-places365 features [380K/2.9GB]](https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-places365.zip)
+- [ResNet-152-imagenet features [380K/2.9GB]](https://www.dropbox.com/s/715bbj8yjz32ekf/ResNet-152-imagenet.zip?dl=1)
+- [ResNet-152-places365 features [380K/2.9GB]](https://www.dropbox.com/s/gox1rbdebyaa98w/ResNet-152-places365.zip?dl=1)
 
 Empirically, we found that using features from Places365 performs similar to the model using ImageNet features.
 
