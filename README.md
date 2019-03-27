@@ -251,6 +251,9 @@ Training usually take around 10 hrs.
 <img src="teaser/tb-training.png" width="100%">
 </p>
 
+## Acknowledgments
+This research was supported by DARPA’s Lifelong Learning Machines (L2M) program, under Cooperative Agreement HR0011-18-2-001.
+We thank Chia-Jung Hsu for her valuable and artistic helps on the figures.
 
 ## Citation
 If you find this repository useful, please cite our paper:
