@@ -136,7 +136,7 @@ Download the original data from [MatterPort3DSimulator](https://github.com/petea
 
 # if you haven't already download the precomputed image features, otherwise skip this step
 cd img_features
-wget https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-imagenet.zip
+wget -O ResNet-152-imagenet.zip https://www.dropbox.com/s/o57kxh2mn5rkx4o/ResNet-152-imagenet.zip\?dl\=1
 
 # unzip the file
 unzip ResNet-152-imagenet.zip
